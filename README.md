@@ -70,8 +70,8 @@ A React + TypeScript application that simulates ISA investment for **retail cust
 ### 1. Clone and Configure
 
 ```bash
-git clone https://github.com/your-username/cushon-investment-app.git
-cd cushon-investment-app
+git clone https://github.com/khuram99/cushon-app.git
+cd cushon-app
 cp .env .env
 
 # Employee Credentials
