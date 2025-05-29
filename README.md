@@ -39,7 +39,7 @@ A React + TypeScript application that simulates ISA investment for **retail cust
 
 | Area             | Decision                                                                     |
 | ---------------- | ---------------------------------------------------------------------------- |
-| Fund selection   | Used Dropdown with array state to support easy shift to multi-select         |
+| Fund selection   | Used Dropdown with array state to support single or multi funds              |
 | ISA cap (£20k)   | Warns user if exceeding UK limit, but allows submission (future enhancement) |
 | Authentication   | Simple email/password mock with `.env` config, no real token parsing         |
 | Persistence      | Local/session storage for session state                                      |
